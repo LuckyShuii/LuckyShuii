@@ -1,4 +1,4 @@
-# Lucas-Boillot
+# Lucas Boillot
 
 ## Junior Web Developper
 
