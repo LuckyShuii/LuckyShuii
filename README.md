@@ -1,3 +1,10 @@
 # Lucas-Boillot
 
-TEST De README Pinned
+# Junior Web Developper
+
+* Symfony 6 / 7
+* PHP
+* JavaScript
+* SCSS / CSS
+* Tailwind / Bootstrap
+* MacOS / Linux / Windows
