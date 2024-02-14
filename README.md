@@ -1,6 +1,6 @@
 # Lucas-Boillot
 
-# Junior Web Developper
+## Junior Web Developper
 
 * Symfony 6 / 7
 * PHP
