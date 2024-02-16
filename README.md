@@ -14,4 +14,4 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQL](https://img.shields.io/badge/SQL-003366?logo=sql&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/SQL)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyshuii&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyshuii&hide=javascript,html,hack)
