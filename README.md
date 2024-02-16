@@ -1,6 +1,6 @@
 ## Lucas Boillot
 
-### Junior Web Developper
+### Symfony / FullStack web developper
 
 [![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony)](https://symfony.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
