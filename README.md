@@ -2,7 +2,10 @@
 
 ### Symfony / FullStack web developper
 
+## PHP
 [![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony)](https://symfony.com/)
+
+## JavaScript
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
