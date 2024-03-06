@@ -1,8 +1,8 @@
-### Lucas Boillot
+# Lucas Boillot
 
 ## Full Stack Developper
 
-# Backend
+### Backend
 [![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony)](https://symfony.com/)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://expressjs.com/)
@@ -17,7 +17,7 @@
 [![Doctrine](https://img.shields.io/badge/Doctrine-000000?logo=doctrine&logoColor=white)](https://www.doctrine-project.org/)
 [![TypeORM](https://img.shields.io/badge/TypeORM-2F323A?logo=typeorm&logoColor=white)](https://typeorm.io/)
 
-# Frontend
+### Frontend
 [![NextJS](https://img.shields.io/badge/NextJS-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
@@ -27,7 +27,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
 
-# Other
+### Other
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![MacOS](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
