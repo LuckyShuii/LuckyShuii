@@ -26,6 +26,7 @@
 ### 🗃️ Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?logo=arangodb&logoColor=white)](https://www.arangodb.com/)
 
 ### ⚙️ DevOps & Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
