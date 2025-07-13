@@ -11,17 +11,12 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/)
 [![REST API](https://img.shields.io/badge/REST_API-003366?logo=rest&logoColor=white)](https://restfulapi.net/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io/)
-[![TypeORM](https://img.shields.io/badge/TypeORM-2F323A?logo=typeorm&logoColor=white)](https://typeorm.io/)
-[![Doctrine](https://img.shields.io/badge/Doctrine-000000?logo=doctrine&logoColor=white)](https://www.doctrine-project.org/)
 
 ### 🎨 Frontend
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=tailwindcss&logoColor=white)](https://ui.shadcn.dev/)
-[![PrimeVue](https://img.shields.io/badge/PrimeVue-1867C0?logo=prime&logoColor=white)](https://primevue.org/)
 
 ### 🗃️ Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
