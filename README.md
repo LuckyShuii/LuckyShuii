@@ -30,3 +30,13 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDE-000000?logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
+
+### ✅ Current projects in production
+
+- **[Proudmoore.gg](https://proudmoore.gg)**  
+  Community-driven website for a World of Warcraft private server.  
+  Features a custom frontend, backend APIs, account management, game-related tools, and integrations around a live game ecosystem.
+
+- **[Residence Itylon](https://residence-itylon.com)**  
+  Official website for a holiday rental residence (gîtes) in Corsica.  
+  Public-facing site focused on presentation, accessibility, and performance for real-world customers.
