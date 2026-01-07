@@ -31,7 +31,7 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDE-000000?logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
 
-### ✅ Current projects in production
+### ✅ Current projects in production (2026)
 
 - **[Proudmoore.gg](https://proudmoore.gg)**  
   Community-driven website for a World of Warcraft private server.  
