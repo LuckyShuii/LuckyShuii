@@ -1,6 +1,6 @@
 # Lucas Boillot
 
-## 🧑‍💻 Full Stack Developer - Cloud & Sécurity Student
+## 🧑‍💻 Full Stack Developer - Cloud & Security Student
 
 ### 🧠 Backend
 [![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony)](https://symfony.com/)
