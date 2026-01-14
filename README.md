@@ -1,6 +1,6 @@
 # Lucas Boillot
 
-## 🧑‍💻 Full Stack Developer
+## 🧑‍💻 Full Stack Developer - Cloud & Sécurity Student
 
 ### 🧠 Backend
 [![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony)](https://symfony.com/)
@@ -30,6 +30,15 @@
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDE-000000?logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
+
+### ☁️ Cloud & Security Stack
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![pfSense](https://img.shields.io/badge/pfSense-212121?logo=pfsense&logoColor=white)](https://www.pfsense.org/)
+[![nftables](https://img.shields.io/badge/nftables-4A90E2?logo=linux&logoColor=white)](https://netfilter.org/projects/nftables/)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?logo=openvpn&logoColor=white)](https://openvpn.net/)
+[![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white)](https://www.vaultproject.io/)
+[![NetBox](https://img.shields.io/badge/NetBox-0078D4?logo=netbox&logoColor=white)](https://netboxlabs.com/)
+[![Elastic Stack](https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=white)](https://www.elastic.co/)
 
 ### ✅ Current projects in production (2026)
 
