@@ -53,6 +53,6 @@
   Official website for a holiday rental residence (gîtes) in Corsica.  
   Public-facing site focused on presentation, accessibility, and performance for real-world customers.
 
-- **[Ed Numérique - 2020](https://www.ednumerique.fr/)**
+- **[Ed Numérique - 2020](https://www.ednumerique.fr/)**  
   Community platform designed to connect people facing digital difficulties with volunteers and professionals able to provide assistance.
   Built to facilitate support, guidance, and digital inclusion, this project was my very first website during my first year as a developer, developed without any AI tools at the time, nor Framework, and featuring a large and comprehensive back-office to manage users, requests, and interactions.
