@@ -8,7 +8,8 @@
 
 ### ✅ Current projects in production (2026)
 
-- **[Proudmoore.gg - 2025](https://proudmoore.gg)**  
+- **[Proudmoore.gg - 2025](https://proudmoore.gg)** | **[helios.twinstar-wow.com - 2026](https://helios.twinstar-wow.com/)** | **[perses.twinstar-wow.com - 2026](https://perses.twinstar-wow.com/)**
+
   Community-driven website for a World of Warcraft private server.  
   Features a custom frontend, backend APIs, account management, game-related tools, and integrations around a live game ecosystem.
 
